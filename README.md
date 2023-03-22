@@ -1,4 +1,4 @@
-# API Autoflow Pro Template - Todo App
+# API Autoflow Pro Template - SNS App
 
 ## Setting
 
